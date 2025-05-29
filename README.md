@@ -80,7 +80,8 @@ Foram utilizados recursos como:
 - Explorar modelagem preditiva simples com Python (ex: regressão para prever inadimplência)
 - Aplicar as mesmas queries em outro SGBD (ex: PostgreSQL)
 
-🙋‍♀️ Sobre mim
+🙋‍♀️ Sobre mim:
+
 Sou a Danieli, estudante de Banco de Dados apaixonada por transformar dados em decisões. Este é um dos projetos para a construção do meu portfólio com foco em análise exploratória, raciocínio lógico e aplicação prática de SQL.
 
 📬 Me acompanhe no LinkedIn para mais projetos como este no link abaixo:
