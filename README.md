@@ -1,5 +1,5 @@
-# analise-pratica-com-sql
-Análise de Dados Bancários Fictícios utilizando SQL.
+
+# Análise de Dados Bancários Fictícios utilizando SQL.
 
 # 💰 SQL Analytics: Insights Financeiros com MySQL no XAMPP
 
