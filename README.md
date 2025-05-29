@@ -63,10 +63,10 @@ Foram utilizados recursos como:
 
 # 📂 Organização do repositório:
 
-📁 /imagens
+📁 /Imagens
    - Capturas de tela dos resultados das queries (formato PNG)
 
-📄 arquivos.sql
+📄 sql
    - criar_db.sql : Arquivo para a criação do banco de dados e suas tabelas.
    - insert.sql : Arquivo com os comandos para inserção dos dados fictícios no bando de dados.
    - queries.sql : Arquivo com todas as queries executadas.
