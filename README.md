@@ -1,6 +1,4 @@
 
-# Análise de Dados Bancários Fictícios utilizando SQL.
-
 # 💰 SQL Analytics: Insights Financeiros com MySQL no XAMPP
 
 ## 📁 Descrição do Projeto:
