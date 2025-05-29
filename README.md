@@ -61,21 +61,19 @@ Foram utilizados recursos como:
 4) Execute os comandos do arquivo queries.sql
 5) Visualize os resultados nas tabelas e prints disponíveis na pasta /imagens
 
-# 📂 Organização do repositório
-pgsql
-Copiar
-Editar
+# 📂 Organização do repositório:
+
 📁 /imagens
-   └── Capturas de tela dos resultados das queries (formato PNG)
+   - Capturas de tela dos resultados das queries (formato PNG)
 
 📄 arquivos.sql
-   └── criar_db.sql : Arquivo para a criação do banco de dados e suas tabelas. 
-   └── insert.sql : Arquivo com os comandos para inserção dos dados fictícios no bando de dados. 
-   └── queries.sql : Arquivo com todas as queries executadas.
-   └── banco_financeiro.sql : Arquivo para a importação do banco de dados utilizado nesta análise. 
+   - criar_db.sql : Arquivo para a criação do banco de dados e suas tabelas.
+   - insert.sql : Arquivo com os comandos para inserção dos dados fictícios no bando de dados.
+   - queries.sql : Arquivo com todas as queries executadas.
+   - banco_financeiro.sql : Arquivo para a importação do banco de dados utilizado nesta análise. 
 
 📄 README.md
-   └── Este documento
+   - Este documento
    
 🚀 Próximos passos
 - Criar um dashboard interativo no Power BI
